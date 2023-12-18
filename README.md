@@ -1,2 +1,2 @@
-# Fcae_recognition
+# Face_recognition
  my python project 
