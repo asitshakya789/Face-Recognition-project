@@ -11,11 +11,11 @@ Step 1: Download python(I use python 3.8 version) Check if pip and python are co
 Step 2: Enter the following command to install dlib and cmake using pip
         Python 3.8:
         
-        pip install dlib-19.19.0-cp38-cp38-win_amd64.whl     
+        pip install dlib-19.19.0-cp38-cp38-win_amd64.whl  
         
-        // Run Command Prompt as an administrator  as same foldor you want to insall  face recognition
+Run Command Prompt as an administrator  as same foldor you want to insall  face recognition
         
-        pip install cmake
+         pip install cmake
 
 Step 3: If you face some error then  Upgrade your pip to avoid errors during installation.
         
@@ -30,7 +30,7 @@ Step 5 :  Install OpenCV
 
         python -m pip install --upgrade pip 
         
-        // to upgread your  pip 
+  // to upgread your  pip 
 
 
 Features:
