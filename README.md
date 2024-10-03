@@ -17,6 +17,7 @@ Verify that Python and pip are correctly installed by running the following comm
 Step 2: Install dlib and cmake
 
 Note: Make sure to run the Command Prompt as an administrator and navigate to the same folder where you want to install face recognition.
+     
         pip install dlib-19.19.0-cp38-cp38-win_amd64.whl  
         
 Run the following command to install cmake using pip:
