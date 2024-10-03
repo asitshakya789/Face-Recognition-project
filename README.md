@@ -5,23 +5,32 @@ This repository contains a Python script for face recognition using OpenCV and f
 
 Installing Face Recognition on Windows 
 Step 1: Download python(I use python 3.8 version) Check if pip and python are correctly installed.
+      
         python --version
         
 Step 2: Enter the following command to install dlib and cmake using pip
         Python 3.8:
-        pip install dlib-19.19.0-cp38-cp38-win_amd64.whl      // Run Command Prompt as an administrator  as same foldor you want to insall  face recognition
+        
+        pip install dlib-19.19.0-cp38-cp38-win_amd64.whl     
+        
+        // Run Command Prompt as an administrator  as same foldor you want to insall  face recognition
+        
         pip install cmake
 
 Step 3: If you face some error then  Upgrade your pip to avoid errors during installation.
+        
         pip install --upgrade pip
 
 Step 4: Enter the following command to install Face Recognition using pip3.
+        
         pip install face-recognition
 
 Step 5 :  Install OpenCV
         pip install opencv-python
 
-        python -m pip install --upgrade pip // to upgread your  pip 
+        python -m pip install --upgrade pip 
+        
+        // to upgread your  pip 
 
 
 Features:
