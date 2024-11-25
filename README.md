@@ -40,7 +40,7 @@ Step 5: Install OpenCV
 
 Run the following command to install OpenCV using pip:
 
-        python -m pip install --upgrade pip 
+        pip install opencv-python 
         
 Additional Step: Upgrade pip (optional)
 
