@@ -13,8 +13,15 @@ Download and install Python 3.8 (or the latest version) from the official Python
 Verify that Python and pip are correctly installed by running the following command:
 
       python --version
-        
-Step 2: Install dlib and cmake
+
+ Step 2: Create a Virtual Environment
+
+ 
+Navigate to your project directory and create a virtual environment:
+
+    python -m venv venv
+
+Step 3: Install dlib and cmake
 
 Note: Make sure to run the Command Prompt as an administrator and navigate to the same folder where you want to install face recognition.
      
@@ -24,19 +31,19 @@ Run the following command to install cmake using pip:
         
          pip install cmake
 
-Step 3: Upgrade pip (if necessary)
+Step 4: Upgrade pip (if necessary)
 
 If you encounter any errors during installation, upgrade your pip to the latest version using the following command:
         
         pip install --upgrade pip
 
-Step 4: Install Face Recognition
+Step 5: Install Face Recognition
 
 Run the following command to install Face Recognition using pip:
       
         pip install face-recognition
 
-Step 5: Install OpenCV
+Step 6: Install OpenCV
 
 Run the following command to install OpenCV using pip:
 
